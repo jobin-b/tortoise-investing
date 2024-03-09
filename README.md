@@ -1,4 +1,0 @@
-# tortoise-investing
-
-# test
-ppoooppy
